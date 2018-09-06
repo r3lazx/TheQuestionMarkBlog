@@ -1,0 +1,18 @@
+lib
+bin
+obj
+TheQuestionMark/.vs/restore.dg
+TheQuestionMark/.vs/config/applicationhost.config
+TheQuestionMark/.vs/TheQuestionMark/v14/.suo
+vendors
+DS_Store
+syntax: glob
+TheQuestionMark/Shell/TheQuestionMark.Web/imagesLocal/uploads/
+*orig
+TheQuestionMark/.vs/TheQuestionMark/v15/Server/sqlite3/storage.ide-wal
+TheQuestionMark/.vs/TheQuestionMark/v15/Server/sqlite3/storage.ide-shm
+TheQuestionMark/.vs/TheQuestionMark/v15/Server/sqlite3/db.lock
+TheQuestionMark/.vs/TheQuestionMark/v15/Server/sqlite3/storage.ide
+TheQuestionMark/Shell/TheQuestionMark.Web/imagesLocal/exportTxt/
+.suo
+TheQuestionMark/.vs/TheQuestionMark/DesignTimeBuild/.dtbcache
