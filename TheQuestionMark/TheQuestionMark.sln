@@ -7,10 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shell", "Shell", "{2CC03C30
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devTQM.Shell", "devTQM.Shell\devTQM.Shell.csproj", "{05168DCD-BBC1-4500-94DF-40A3B121DBF6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{6DCD3345-5A8D-49F7-AA0E-518AEB644F6B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R3lazxCommon", "R3lazxCommon\R3lazxCommon.csproj", "{619151D7-542C-4F67-B0A1-38BD4F48E450}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,17 +17,12 @@ Global
 		{05168DCD-BBC1-4500-94DF-40A3B121DBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05168DCD-BBC1-4500-94DF-40A3B121DBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05168DCD-BBC1-4500-94DF-40A3B121DBF6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{619151D7-542C-4F67-B0A1-38BD4F48E450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{619151D7-542C-4F67-B0A1-38BD4F48E450}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{619151D7-542C-4F67-B0A1-38BD4F48E450}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{619151D7-542C-4F67-B0A1-38BD4F48E450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{05168DCD-BBC1-4500-94DF-40A3B121DBF6} = {2CC03C30-C7A2-4DD1-80EA-91FC8272FA24}
-		{619151D7-542C-4F67-B0A1-38BD4F48E450} = {6DCD3345-5A8D-49F7-AA0E-518AEB644F6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB739727-C42C-403E-8AD2-791B2C04E667}
